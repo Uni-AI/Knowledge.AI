@@ -1,0 +1,1 @@
+- [ChatGPT Prompt Engineering Course](https://youtu.be/mBYu5NoXBcs)
