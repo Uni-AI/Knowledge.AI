@@ -1,0 +1,1 @@
+- [Yann LeCun, Chief AI Scientist at Meta AI: From Machine Learning to Autonomous Intelligence](https://youtu.be/mViTAXCg1xQ)
