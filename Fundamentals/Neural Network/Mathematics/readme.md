@@ -1,1 +1,2 @@
 - [Intro to Machine Learning & Neural Networks. How Do They Work?](https://youtu.be/0kU670foqDg)
+- [But what is a neural network? | Chapter 1, Deep learning](https://youtu.be/aircAruvnKk)
