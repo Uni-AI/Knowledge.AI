@@ -1,0 +1,1 @@
+- [Geoffrey Hinton - Two Paths to Intelligence](https://youtu.be/rGgGOccMEiY)
