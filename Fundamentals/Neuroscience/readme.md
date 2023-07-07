@@ -1,0 +1,1 @@
+- [Decoding the Human Mind & Neural Nets | Noam Chomsky | Eye on AI #126](https://youtu.be/wPonuHqbNds)
