@@ -1,0 +1,1 @@
+- [Marc Andreessen: Future of the Internet, Technology, and AI | Lex Fridman Podcast #386](https://youtu.be/-hxeDjAxvJ8)
