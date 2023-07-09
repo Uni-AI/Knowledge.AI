@@ -1,0 +1,1 @@
+- [Intuition Behind Self-Attention Mechanism in Transformer Networks](https://youtu.be/g2BRIuln4uc)
