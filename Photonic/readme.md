@@ -1,0 +1,1 @@
+- [New AI Chip: Training AI with Light!](https://youtu.be/IwzguEPIddU)
