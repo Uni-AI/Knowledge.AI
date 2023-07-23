@@ -1,0 +1,1 @@
+- [LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners](https://youtu.be/aywZrzNaKjs)
