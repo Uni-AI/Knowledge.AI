@@ -1,0 +1,1 @@
+- [How to Think Computationally About AI, the Universe and Everything | Stephen Wolfram | TED](https://youtu.be/fLMZAHyrpyo)
