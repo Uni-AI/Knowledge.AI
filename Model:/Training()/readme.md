@@ -1,0 +1,1 @@
+- [Training Your Own AI Model Is Not As Hard As You (Probably) Think](https://youtu.be/fCUkvL0mbxI)
