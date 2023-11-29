@@ -1,0 +1,1 @@
+- [AI-900 - Learning About Generative AI](https://youtu.be/Ch6KE7KxHGM)
