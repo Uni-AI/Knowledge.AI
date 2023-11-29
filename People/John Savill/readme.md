@@ -1,1 +1,3 @@
 - [AI-900 - Learning About Generative AI](https://youtu.be/Ch6KE7KxHGM)
+- [RAG, semantic search, embedding, vector... Find out what the terms used with Generative AI mean!](https://youtu.be/orLGv2LgWDE)
+- [What is ChatGPT?](https://youtu.be/_B3-OtAHzIU)
